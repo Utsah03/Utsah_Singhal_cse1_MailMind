@@ -1,1 +1,6 @@
-# Utsah_Singhal_cse1_MailMind
+# MailMind
+
+#Utsah Singhal
+#Bhawna Sharma
+#Nandini Kale
+#Aryaveer Singh
